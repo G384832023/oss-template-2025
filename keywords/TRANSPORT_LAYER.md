@@ -6,7 +6,7 @@
 
 ## 参考文献
 
-- [https://e-words.jp/w/トランスポート層.html#google_vignette](URL)
+- [https://ja.wikipedia.org/wiki/トランスポート層](URL)
 
 ## 作成者
 
