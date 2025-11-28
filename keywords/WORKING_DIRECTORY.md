@@ -6,7 +6,7 @@
 
 ## 参考文献
 
-- [https://it-notes.stylemap.co.jp/systems/understanding-the-working-directory-in-computing/](URL)
+- [https://it-notes.stylemap.co.jp/systems/understanding-the-working-directory-in-computing](URL)
 
 ## 作成者
 

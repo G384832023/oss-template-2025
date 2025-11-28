@@ -6,7 +6,7 @@
 
 ## 参考文献
 
-- [https://e-words.jp/w/トランスポート層.html](URL)
+- [https://e-words.jp/w%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E5%B1%A4.html](URL)
 
 ## 作成者
 
